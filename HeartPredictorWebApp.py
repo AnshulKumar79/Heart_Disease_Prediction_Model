@@ -4,11 +4,13 @@ Created on Wed Oct 29 19:13:26 2025
 
 @author: Lenovo
 """
+import concurrent.futures.thread
 
-import numpy as np 
-import pickle
 import streamlit as st
+import pickle
 import sklearn
+import numpy as np
+
 
 #loading the saved model
 loaded_model=pickle.load(open('Trained_model.sav','rb'))
