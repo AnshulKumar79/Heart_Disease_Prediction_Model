@@ -4,6 +4,9 @@ Trained a machine-learning model with Logistic Regression(classification based) 
 Heart Disease Prediction using Logistic Regression
 
 This project aims to build a Machine Learning model that predicts whether a person is a heart patient or not based on various medical attributes. The model uses Logistic Regression, a simple yet powerful classification algorithm ideal for binary outcomes.
+## 🚀 Live Demo
+
+You can try the live app here: https://heartdiseasepredictionmodel-8j685glydzooqusvwltiqb.streamlit.app/
 
 Project Overview
 
